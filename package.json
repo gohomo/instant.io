@@ -1,5 +1,5 @@
 {
-  "name": "instant.io",
+  "name": "ikiss.ooo",
   "description": "Secure, anonymous, streaming file transfer",
   "version": "1.0.0",
   "author": {
@@ -37,7 +37,7 @@
     "stylus": "^0.54.0",
     "watchify": "^3.1.0"
   },
-  "homepage": "https://instant.io",
+  "homepage": "https://ikiss.ooo",
   "keywords": [
     "data channel",
     "file transfer",
